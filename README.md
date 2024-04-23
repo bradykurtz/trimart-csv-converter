@@ -19,7 +19,7 @@ The Jar takes two parameters
 
 #### Full Example
 ```shell
-java -jar /Users/bradykurtz/Projects/trimArt/csvConverter/build/libs/trimArtCsvConverter.jar "/Users/bradykurtz/Projects/trimArt/csvConverter/src/test/resources/4_18 Benches/CncRun492.csv" ~/Downloads
+java -jar /Users/<username>/Projects/trimArt/csvConverter/build/libs/trimArtCsvConverter.jar "/Users/bradykurtz/Projects/trimArt/csvConverter/src/test/resources/4_18 Benches/CncRun492.csv" ~/Downloads
 ```
 
 ### To Build the Project / Make Changes
