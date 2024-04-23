@@ -1,7 +1,7 @@
 # Trim Art CSV Converter
 
 ### Getting Started
-Download the latest release jar here
+Download the latest release jar [here](https://github.com/bradykurtz/trimart-csv-converter/releases)
 
 You will then run:
 
